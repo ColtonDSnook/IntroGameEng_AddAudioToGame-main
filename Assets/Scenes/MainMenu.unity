@@ -2881,7 +2881,7 @@ AudioSource:
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 0}
   m_PlayOnAwake: 0
-  m_Volume: 0.7
+  m_Volume: 1
   m_Pitch: 1
   Loop: 0
   Mute: 0
@@ -2977,12 +2977,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d4290a2498fc81b4894976a73ba08e84, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  playerShoot: {fileID: 8300000, guid: 3637e9f0067dce545917d8bd0bdbb13f, type: 3}
-  asteroidExplosion: {fileID: 8300000, guid: 3637e9f0067dce545917d8bd0bdbb13f, type: 3}
-  playerDamage: {fileID: 8300000, guid: 3637e9f0067dce545917d8bd0bdbb13f, type: 3}
-  playerExplosion: {fileID: 8300000, guid: 3637e9f0067dce545917d8bd0bdbb13f, type: 3}
-  BgMusicGameplay: {fileID: 8300000, guid: 3637e9f0067dce545917d8bd0bdbb13f, type: 3}
-  BgMusicTitleScreen: {fileID: 8300000, guid: 3637e9f0067dce545917d8bd0bdbb13f, type: 3}
+  playerShoot: {fileID: 8300000, guid: e3b6638ce4af02f43b3acdf281d6ae19, type: 3}
+  asteroidExplosion: {fileID: 8300000, guid: 9e7c7353cebfd2442889aed9584a3b34, type: 3}
+  playerDamage: {fileID: 8300000, guid: 8476a67faade62f4fadca3aacfbc643f, type: 3}
+  playerExplosion: {fileID: 8300000, guid: 4d83b754d1d870746aee68c6bd352c0d, type: 3}
+  BgMusicGameplay: {fileID: 8300000, guid: adafa9439346b8a43b24cebeb7a25e72, type: 3}
+  BgMusicTitleScreen: {fileID: 8300000, guid: c1f47ad0c8a513145b37a6ef15c569ca, type: 3}
 --- !u!4 &1337980917
 Transform:
   m_ObjectHideFlags: 0
@@ -3611,7 +3611,7 @@ AudioSource:
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 0}
   m_PlayOnAwake: 0
-  m_Volume: 0.25
+  m_Volume: 1
   m_Pitch: 1
   Loop: 1
   Mute: 0
